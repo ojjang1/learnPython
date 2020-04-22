@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 
 import requests, re, os
 
-from urllib.request import urlretrieve   #추가(다룬로드)
+from urllib.request import urlretrieve   #추가(다운로드)
 
 
 # 저장 폴더를 생성
